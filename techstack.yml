@@ -1,0 +1,1837 @@
+repo_name: caseyspaulding/AdaptiveCards
+report_id: 93d31fd9cdafe2ffcbdf355dcc035340
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T13:29:31+00:00'
+requested_by: anna-dingler
+provider: github
+branch: main
+detected_tools_count: 131
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '5.0'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Matt Hidinger
+  last_updated_on: 2017-10-19 04:16:27.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Matt Hidinger
+  last_updated_on: 2017-09-27 18:27:24.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/uwp/winui3/SimpleVisualizer/SimpleVisualizer.csproj
+  detection_source: source/uwp/winui3/SimpleVisualizer/SimpleVisualizer.csproj
+  last_updated_by: Kristen Schau
+  last_updated_on: 2023-01-23 20:15:02.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '3.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards.Rendering.Wpf.Core/AdaptiveCards.Rendering.Wpf.Core.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards.Rendering.Wpf.Core/AdaptiveCards.Rendering.Wpf.Core.csproj
+  last_updated_by: almedina-ms
+  last_updated_on: 2019-10-11 19:19:20.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '3.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards.Rendering.Wpf.Core/AdaptiveCards.Rendering.Wpf.Core.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards.Rendering.Wpf.Core/AdaptiveCards.Rendering.Wpf.Core.csproj
+  last_updated_by: almedina-ms
+  last_updated_on: 2019-10-11 19:19:20.000000000 Z
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/android/app/build.gradle
+  detection_source: source/community/reactnative/android/app/build.gradle
+  last_updated_by: IbrahimSulai
+  last_updated_on: 2021-03-19 10:45:45.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/ac-typed-schema/package.json
+  detection_source: source/nodejs/ac-typed-schema/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-04-26 21:47:36.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 0.63.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/ios/Podfile.lock
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Vivek Kozhisseri
+  last_updated_on: 2021-09-03 21:20:12.000000000 Z
+- name: React Native
+  description: A framework for building native apps with React
+  website_url: http://facebook.github.io/
+  version: 0.63.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Vivek Kozhisseri
+  last_updated_on: 2021-09-03 21:20:12.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Matt Hidinger
+  last_updated_on: 2019-01-04 00:19:41.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-10-27 19:33:13.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: Azure Storage
+  description: Reliable, economical cloud storage for data big and small
+  website_url: http://azure.microsoft.com/en-us/services/storage/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/ios/tools/IOSFeed/IOSFeed.csproj
+  detection_source: source/ios/tools/IOSFeed/IOSFeed.csproj
+  last_updated_by: Joseph Woo
+  last_updated_on: 2019-08-29 22:47:29.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.12.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/babel.config.js
+  last_updated_by: IbrahimSulai
+  last_updated_on: 2021-05-21 15:09:22.000000000 Z
+- name: BrowserSync
+  description: Reload all your browsers, every time you hit save
+  website_url: http://www.browsersync.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Live Reloading
+  image_url: https://img.stackshare.io/service/2600/c22Igh9q.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-01-07 19:52:17.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Vasanthakumar
+  last_updated_on: 2019-04-09 18:44:48.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/.github/workflows/accessibility-insights-daily.yml
+  detection_source: ".github/workflows/accessibility-insights-daily.yml"
+  last_updated_by: Risheek Rajolu
+  last_updated_on: 2021-08-09 17:23:20.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/android/adaptivecards/build.gradle
+  detection_source: source/android/adaptivecards/build.gradle
+  last_updated_by: almedina-ms
+  last_updated_on: 2022-07-01 22:20:20.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 25.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Vasanthakumar
+  last_updated_on: 2019-04-09 18:44:48.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 6.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/ac-typed-schema/package-lock.json
+  detection_source: source/nodejs/ac-typed-schema/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-04-26 21:47:36.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/uwp/winui3/SimpleVisualizer/SimpleVisualizer.csproj
+  detection_source: source/uwp/winui3/SimpleVisualizer/SimpleVisualizer.csproj
+  last_updated_by: Kristen Schau
+  last_updated_on: 2023-01-23 20:15:02.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-12-09 18:22:18.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/windows/adaptivecards-reactnative.sln
+  detection_source: source/community/reactnative/windows/adaptivecards-reactnative.sln
+  last_updated_by: Balaji Rajendran
+  last_updated_on: 2019-04-25 14:45:52.000000000 Z
+- name: Visual Studio Code
+  description: Build and debug modern web and cloud applications, by Microsoft
+  website_url: https://code.visualstudio.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/.vscode/tasks.json
+  detection_source: ".vscode/tasks.json"
+  last_updated_by: Matt Hidinger
+  last_updated_on: 2017-09-16 02:15:04.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.73.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-designer-app/package-lock.json
+  detection_source: source/nodejs/adaptivecards-aaf-testapp/webpack.config.js
+  last_updated_by: David Claux
+  last_updated_on: 2021-03-11 16:49:03.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/yarn.lock
+  detection_source: source/community/reactnative/yarn.lock
+  last_updated_by: Vasanthakumar
+  last_updated_on: 2019-04-09 18:44:48.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/tests/ui-tests/package.json
+  detection_source: source/nodejs/tests/ui-tests/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-08-12 20:59:17.000000000 Z
+- name: ANTLR
+  description: Posts by Terence Parr, The ANTLR guy, about ANTLR, StringTemplate,
+    parsing, and general computer language cruft.
+  website_url: http://www.antlr.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/android/app/build.gradle
+  detection_source: source/community/reactnative/android/app/build.gradle
+  last_updated_by: IbrahimSulai
+  last_updated_on: 2021-03-19 10:45:45.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/ios/Podfile.lock
+  detection_source: source/community/reactnative/ios/Podfile.lock
+  last_updated_by: IbrahimSulai
+  last_updated_on: 2021-03-19 10:45:45.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 6.2.0
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: Hexo
+  description: A fast, simple &amp; powerful blog framework, powered by Node.js
+  website_url: http://hexo.io/
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/1154/mQZOTo9f.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Matt Hidinger
+  last_updated_on: 2017-09-27 18:27:24.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 5.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards
+  detection_source: Repo Metadata
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-12-09 18:22:18.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-12-09 18:22:18.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.12.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: IbrahimSulai
+  last_updated_on: 2021-03-19 10:45:45.000000000 Z
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.12.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: IbrahimSulai
+  last_updated_on: 2021-03-19 10:45:45.000000000 Z
+- name: "@fortawesome/fontawesome-free"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
+  version: 6.2.0
+  license: CC-BY-4.0,OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: "@react-native-community/eslint-config"
+  description: ESLint config for React Native
+  package_url: https://www.npmjs.com/@react-native-community/eslint-config
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18225/default_88b0d2e50daafd07d82e1afc6ee8f1b97181a07d.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Vivek Kozhisseri
+  last_updated_on: 2021-09-03 21:20:12.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/adaptivecards-react-testapp/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-03-04 21:35:49.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 11.2.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/adaptivecards-react-testapp/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2022-09-16 19:50:35.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 26.0.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/adaptivecards-react-testapp/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2021-11-08 23:31:59.000000000 Z
+- name: "@types/json-schema"
+  description: TypeScript definitions for json-schema 4.0, 6.0 and
+  package_url: https://www.npmjs.com/@types/json-schema
+  version: 7.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18771/default_a5859a22d2687bca431101598566ff063dd79fa9.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/adaptivecards-templating/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-10-27 19:33:13.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.14.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/ac-typed-schema/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-03-04 21:35:49.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 17.0.34
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/adaptivecards-react-testapp/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2022-09-16 19:50:35.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 17.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/adaptivecards-react-testapp/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2022-09-16 19:50:35.000000000 Z
+- name: "@types/selenium-webdriver"
+  description: TypeScript definitions for Selenium WebDriverJS
+  package_url: https://www.npmjs.com/@types/selenium-webdriver
+  version: 4.0.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17263/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/tests/ui-tests/package-lock.json
+  detection_source: source/nodejs/tests/ui-tests/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-12-15 17:59:33.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 2.34.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2022-09-13 20:02:25.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 2.34.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 6.12.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/tests/test-adaptive-card-schema/package.json
+  last_updated_by: Andrew Leader
+  last_updated_on: 2019-06-12 15:49:46.000000000 Z
+- name: assert
+  description: The assert module from Node.js, for the browser
+  package_url: https://www.npmjs.com/assert
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Pragadeesh Kanagavel
+  last_updated_on: 2020-06-26 10:51:12.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 2.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in async
+    cve_id: CVE-2021-43138
+    cve_url: https://github.com/advisories/GHSA-fwr7-v2mv-hh25
+    detected_date: Apr 13
+    severity: high
+    first_patched: 2.6.4
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 25.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: IbrahimSulai
+  last_updated_on: 2021-03-19 10:45:45.000000000 Z
+- name: change-case
+  description: Transform a string between `camelCase`
+  package_url: https://www.npmjs.com/change-case
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16612/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: cheerio
+  description: Fast, flexible, and lean implementation of core jQuery
+  package_url: https://www.npmjs.com/cheerio
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: clang-format
+  description: Node wrapper around clang-format
+  package_url: https://www.npmjs.com/clang-format
+  version: 1.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18178/default_d3a7b83d655e8a05ff3ca4b53648a053e1d909b2.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Joseph Woo
+  last_updated_on: 2022-08-03 19:32:42.000000000 Z
+- name: clipboard
+  description: Modern copy to clipboard. No Flash. Just 2kb
+  package_url: https://www.npmjs.com/clipboard
+  version: 2.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16838/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-designer/package-lock.json
+  detection_source: source/nodejs/adaptivecards-designer/package.json
+  last_updated_by: Matt Hidinger
+  last_updated_on: 2019-07-09 21:13:32.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards/package-lock.json
+  detection_source: source/nodejs/adaptivecards/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-11-13 02:27:04.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: cpy-cli
+  description: Copy files
+  package_url: https://www.npmjs.com/cpy-cli
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16964/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-designer/package-lock.json
+  detection_source: source/nodejs/adaptivecards-designer/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards/package-lock.json
+  detection_source: source/nodejs/adaptivecards/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-11-13 02:27:04.000000000 Z
+- name: dts-generator
+  description: ".d.ts generator"
+  package_url: https://www.npmjs.com/dts-generator
+  version: 3.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17914/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2020-06-26 19:26:24.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-12-09 18:22:18.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-designer-app/package-lock.json
+  detection_source: source/nodejs/adaptivecards-designer-app/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2020-06-26 19:26:24.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/ac-typed-schema/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-04-26 21:47:36.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-12-09 18:22:18.000000000 Z
+- name: i18n
+  description: Lightweight translation module with dynamic json storage
+  package_url: https://www.npmjs.com/i18n
+  version: 0.13.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17931/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/ac-typed-schema/package-lock.json
+  detection_source: source/nodejs/ac-typed-schema/package.json
+  last_updated_by: Risheek Rajolu
+  last_updated_on: 2021-06-25 16:56:41.000000000 Z
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 3.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Joseph Woo
+  last_updated_on: 2023-02-13 17:49:33.000000000 Z
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  version: 0.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2021-12-14 02:21:54.000000000 Z
+- name: json-schema-ref-parser
+  description: Parse, Resolve, and Dereference JSON Schema $ref pointers
+  package_url: https://www.npmjs.com/json-schema-ref-parser
+  version: 9.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18337/default_505909b81a0b4c883dedb080d9d7c8b30a5918e8.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/marked-schema/package-lock.json
+  detection_source: source/nodejs/marked-schema/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 12.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-12-09 18:22:18.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 12.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react/package-lock.json
+  detection_source: source/nodejs/adaptivecards-react/package.json
+  last_updated_by: Mara Kim
+  last_updated_on: 2021-08-24 22:38:14.000000000 Z
+- name: md5
+  description: Js function for hashing messages with MD5
+  package_url: https://www.npmjs.com/md5
+  version: 2.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16342/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Matt Hidinger
+  last_updated_on: 2017-09-27 18:27:24.000000000 Z
+- name: metro-react-native-babel-preset
+  description: Babel preset for React Native applications
+  package_url: https://www.npmjs.com/metro-react-native-babel-preset
+  version: 0.59.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16699/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Vivek Kozhisseri
+  last_updated_on: 2021-09-03 21:20:12.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 2.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-11-13 02:27:04.000000000 Z
+- name: minimist
+  description: Parse argument options
+  package_url: https://www.npmjs.com/minimist
+  version: 1.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in minimist
+    cve_id: CVE-2021-44906
+    cve_url: https://github.com/advisories/GHSA-xvch-5gv4-984h
+    detected_date: Mar 22
+    severity: critical
+    first_patched: 1.2.6
+- name: monaco-editor
+  description: A browser based code editor
+  package_url: https://www.npmjs.com/monaco-editor
+  version: 0.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18275/default_04867aeead13d19d0c97d0c649f8b38985a43aba.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-designer-app/package-lock.json
+  detection_source: source/nodejs/adaptivecards-designer-app/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-10-27 19:33:13.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 1.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: anna-dingler
+  last_updated_on: 2022-10-14 23:01:40.000000000 Z
+  vulnerabilities:
+  - name: node-fetch forwards secure headers to untrusted sites
+    cve_id: CVE-2022-0235
+    cve_url: https://github.com/advisories/GHSA-r683-j2x4-v87g
+    detected_date: Jan 22
+    severity: high
+    first_patched: 2.6.7
+  - name: The `size` option isn't honored after following a redirect in node-fetch
+    cve_id: CVE-2020-15168
+    cve_url: https://github.com/advisories/GHSA-w7rc-rwvf-8q5r
+    detected_date: Aug 22
+    severity: low
+    first_patched: 2.6.1
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/adaptivecards-react-testapp/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2022-09-16 19:50:35.000000000 Z
+- name: react-native
+  description: A framework for building native apps using React
+  package_url: https://www.npmjs.com/react-native
+  version: 0.63.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Vivek Kozhisseri
+  last_updated_on: 2021-09-03 21:20:12.000000000 Z
+  vulnerabilities:
+  - name: Regular expression denial of service in react-native
+    cve_id: CVE-2020-1920
+    cve_url: https://github.com/advisories/GHSA-7f53-fmmv-mfjv
+    detected_date: Aug 22
+    severity: high
+    first_patched: 0.64.1
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/adaptivecards-react-testapp/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2022-09-16 19:50:35.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/community/reactnative/package.json
+  last_updated_by: Vivek Kozhisseri
+  last_updated_on: 2021-09-03 21:20:12.000000000 Z
+- name: remarkable
+  description: Markdown parser, done right
+  package_url: https://www.npmjs.com/remarkable
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17984/default_3c26cdeaec6eea61500856203ee8d97e81b93f76.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-ui-testapp/package-lock.json
+  detection_source: source/nodejs/adaptivecards-ui-testapp/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-09-03 00:53:27.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.88.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched:
+- name: request-promise
+  description: The simplified HTTP request client 'request' with Promise support
+  package_url: https://www.npmjs.com/request-promise
+  version: 4.2.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16072/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-site/package-lock.json
+  detection_source: source/nodejs/adaptivecards-site/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/community/reactnative/package-lock.json
+  detection_source: source/nodejs/adaptivecards/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-11-13 02:27:04.000000000 Z
+- name: selenium-webdriver
+  description: The official WebDriver JavaScript bindings from the Selenium project
+  package_url: https://www.npmjs.com/selenium-webdriver
+  version: 4.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16708/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/tests/ui-tests/package-lock.json
+  detection_source: source/nodejs/tests/ui-tests/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-12-15 17:59:33.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Canhua Li
+  last_updated_on: 2021-12-14 02:21:54.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 27.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards/package-lock.json
+  detection_source: source/nodejs/adaptivecards/package.json
+  last_updated_by: almedina-ms
+  last_updated_on: 2021-11-13 02:27:04.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 9.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-10-27 19:33:13.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.22.18
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-templating/package-lock.json
+  detection_source: source/nodejs/adaptivecards-templating/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-10-27 19:33:13.000000000 Z
+- name: typedoc-plugin-markdown
+  description: A plugin for TypeDoc that enables TypeScript API documentation to be
+    generated in Markdown
+  package_url: https://www.npmjs.com/typedoc-plugin-markdown
+  version: 3.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17015/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-templating/package-lock.json
+  detection_source: source/nodejs/adaptivecards-templating/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-10-27 19:33:13.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 4.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/nodejs/adaptivecards-react-testapp/package-lock.json
+  detection_source: source/nodejs/package.json
+  last_updated_by: Paul Campbell
+  last_updated_on: 2022-09-16 18:06:58.000000000 Z
+- name: Antlr4.Runtime.Standard
+  description: The .NET Core C# ANTLR 4 runtime from the ANTLR Organization
+  package_url: https://www.nuget.org/Antlr4.Runtime.Standard
+  version: 4.8.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13867/default_f71362d5cdd81a1583eb441b931fae9d72ff1211.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards.Templating/AdaptiveCards.Templating.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards.Templating/AdaptiveCards.Templating.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2023-02-28 06:48:48.000000000 Z
+- name: CompareNETObjects
+  description: What you have been waiting for
+  package_url: https://www.nuget.org/CompareNETObjects
+  version: '4.67'
+  license: MS-PL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13587/default_b3a9fa7efbcc92b2b6d42b9fa9afd23454bef416.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Test/AdaptiveCards.Test/AdaptiveCards.Test.csproj
+  detection_source: source/dotnet/Test/AdaptiveCards.Test/AdaptiveCards.Test.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-01-06 00:02:53.000000000 Z
+- name: MSTest.TestFramework
+  description: This is MSTest V2, the evolution of Microsoft's Test Framework
+  package_url: https://www.nuget.org/MSTest.TestFramework
+  version: '2.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Test/AdaptiveCards.Templating.Test/AdaptiveCards.Templating.Test.csproj
+  detection_source: source/dotnet/Test/AdaptiveCards.Templating.Test/AdaptiveCards.Templating.Test.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-10-01 03:15:40.000000000 Z
+- name: Microsoft.AspNetCore.Mvc
+  description: ASP.NET Core MVC is a web framework that gives you a powerful, patterns-based
+    way to build dynamic websites and web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Mvc
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12878/default_485731cffe5047176f704e34ccfabc7dc075f3d9.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Samples/ImageRendererServer/ImageRendererServer.csproj
+  detection_source: source/dotnet/Samples/ImageRendererServer/ImageRendererServer.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2020-05-04 23:30:53.000000000 Z
+- name: Microsoft.AspNetCore.Server.IISIntegration
+  description: ASP.NET Core components for working with the IIS AspNetCoreModule
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Server.IISIntegration
+  version: 2.2.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13351/default_97f005023342604c2e0668a9597b9eb6971b1d06.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Samples/ImageRendererServer/ImageRendererServer.csproj
+  detection_source: source/dotnet/Samples/ImageRendererServer/ImageRendererServer.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2020-05-04 23:30:53.000000000 Z
+- name: Microsoft.Azure.Storage.Blob
+  description: This client library enables working with the Microsoft Azure Storage
+    Blob service for storing binary and text data
+  package_url: https://www.nuget.org/Microsoft.Azure.Storage.Blob
+  version: 10.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13336/default_51dc9af41ee0a21e27551191d6c835184da1c0d8.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/ios/tools/IOSFeed/IOSFeed.csproj
+  detection_source: source/ios/tools/IOSFeed/IOSFeed.csproj
+  last_updated_by: Joseph Woo
+  last_updated_on: 2019-08-29 22:47:29.000000000 Z
+- name: Microsoft.CSharp
+  description: Provides support for compilation and code generation, including dynamic,
+    using the C# language
+  package_url: https://www.nuget.org/Microsoft.CSharp
+  version: '4.7'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12845/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-06-10 19:06:22.000000000 Z
+- name: Microsoft.CodeAnalysis.FxCopAnalyzers
+  description: Microsoft recommended code quality rules and .NET API usage rules,
+    including the most important FxCop rules, implemented as analyzers using the .NET
+    Compiler Platform
+  package_url: https://www.nuget.org/Microsoft.CodeAnalysis.FxCopAnalyzers
+  version: '3.3'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13202/default_42e87535b59c0cd77a89678c1c4ed24abc143f58.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards.Templating/AdaptiveCards.Templating.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards.Templating/AdaptiveCards.Templating.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-06-10 19:06:22.000000000 Z
+- name: Microsoft.Extensions.CommandLineUtils
+  description: Command-line parsing API
+  package_url: https://www.nuget.org/Microsoft.Extensions.CommandLineUtils
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13307/default_1e1f93823dcbf467a805adfd578c74f8f54c6a4e.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Samples/AdaptiveCards.Core.Sample.ImageRender/AdaptiveCards.Core.Sample.ImageRender.csproj
+  detection_source: source/dotnet/Samples/AdaptiveCards.Core.Sample.ImageRender/AdaptiveCards.Core.Sample.ImageRender.csproj
+  last_updated_by: almedina-ms
+  last_updated_on: 2019-10-11 19:19:20.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 11.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards.Templating/AdaptiveCards.Templating.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards.Templating/AdaptiveCards.Templating.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-06-10 19:06:22.000000000 Z
+  vulnerabilities:
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: Newtonsoft.Json.Schema
+  description: Json.NET Schema is a complete and easy-to-use JSON Schema framework
+    for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json.Schema
+  version: 3.0.14
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13332/default_bf5ef28b557cbc9d58bff0b01afc8f39b37cfbc6.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/uwp/winui3/SimpleVisualizer/SimpleVisualizer.csproj
+  detection_source: source/uwp/winui3/SimpleVisualizer/SimpleVisualizer.csproj
+  last_updated_by: Kristen Schau
+  last_updated_on: 2023-01-23 20:15:02.000000000 Z
+- name: System.Collections
+  description: Provides classes that define generic collections
+  package_url: https://www.nuget.org/System.Collections
+  version: '4.3'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-01-06 00:02:53.000000000 Z
+- name: System.Drawing.Common
+  description: Provides access to GDI+ graphics functionality
+  package_url: https://www.nuget.org/System.Drawing.Common
+  version: 4.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12911/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards.Rendering.Wpf.Core/AdaptiveCards.Rendering.Wpf.Core.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards.Rendering.Wpf.Core/AdaptiveCards.Rendering.Wpf.Core.csproj
+  last_updated_by: dependabot-preview[bot]
+  last_updated_on: 2020-10-01 22:10:57.000000000 Z
+  vulnerabilities:
+  - name: ".NET Core Remote Code Execution Vulnerability"
+    cve_id: CVE-2021-24112
+    cve_url: https://github.com/advisories/GHSA-rxg9-xrhp-64gj
+    detected_date: Oct 26
+    severity: critical
+    first_patched: 4.7.2
+- name: System.Dynamic.Runtime
+  description: Provides classes and interfaces that support the Dynamic Language Runtime
+  package_url: https://www.nuget.org/System.Dynamic.Runtime
+  version: '4.3'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12921/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-01-06 00:02:53.000000000 Z
+- name: System.Linq
+  description: Provides classes and interfaces that supports queries that use Language-Integrated
+    Query
+  package_url: https://www.nuget.org/System.Linq
+  version: '4.3'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12857/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-01-06 00:02:53.000000000 Z
+- name: System.Net.Http
+  description: Provides a programming interface for modern HTTP applications
+  package_url: https://www.nuget.org/System.Net.Http
+  version: '4.3'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12860/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-01-06 00:02:53.000000000 Z
+  vulnerabilities:
+  - name: ".NET Core Information Disclosure"
+    cve_id: CVE-2018-8292
+    cve_url: https://github.com/advisories/GHSA-7jgj-8wvc-jh57
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.3.4
+- name: System.Reflection
+  description: Provides types that retrieve information about assemblies, modules,
+    members, parameters, and other entities in managed code by examining their metadata
+  package_url: https://www.nuget.org/System.Reflection
+  version: '4.3'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12874/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-01-06 00:02:53.000000000 Z
+- name: System.Runtime.Extensions
+  description: Provides commonly-used classes for performing mathematical functions,
+    conversions, string comparisons and querying environment information
+  package_url: https://www.nuget.org/System.Runtime.Extensions
+  version: '4.3'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12872/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-06-10 19:06:22.000000000 Z
+- name: System.Text.RegularExpressions
+  description: Provides the System.Text.RegularExpressions.Regex class, an implementation
+    of a regular expression engine
+  package_url: https://www.nuget.org/System.Text.RegularExpressions
+  version: '4.3'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12916/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  detection_source: source/dotnet/Library/AdaptiveCards/AdaptiveCards.csproj
+  last_updated_by: Paul Campbell
+  last_updated_on: 2021-06-10 19:06:22.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in System.Text.RegularExpressions
+    cve_id: CVE-2019-0820
+    cve_url: https://github.com/advisories/GHSA-cmhx-cq75-c4mj
+    detected_date: Aug 22
+    severity: high
+    first_patched: 4.3.1
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.12'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/android/mobile/build.gradle
+  detection_source: source/android/mobile/build.gradle
+  last_updated_by: Paul Campbell
+  last_updated_on: 2018-11-02 22:21:34.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/caseyspaulding/AdaptiveCards/blob/main/source/android/adaptivecards/build.gradle
+  detection_source: source/android/adaptivecards/build.gradle
+  last_updated_by: Ardlan Khalili
+  last_updated_on: 2023-06-15 19:12:16.000000000 Z
